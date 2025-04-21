@@ -26,7 +26,7 @@
 
 
 
-<div align="centre">
+<div align="center">
     <img alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZhaW15dGc4ZXplNm43eG4wZ2xweHI5Y2lvYTFmc3htMXhqMm5oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
