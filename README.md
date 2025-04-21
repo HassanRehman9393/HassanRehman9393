@@ -26,21 +26,38 @@
 
 
 
-<div align="center">
+<div align="centre">
     <img alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZhaW15dGc4ZXplNm43eG4wZ2xweHI5Y2lvYTFmc3htMXhqMm5oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
-## 💫 About Me
-- 🔭 I'm currently a second-year **Software Engineering** student at **FAST-NUCES**
-- 🚀 I've built **20+ projects** across various domains
-- 💼 **3+ years** of experience in web development and design
-- 🌱 I'm currently mastering **Full-Stack Development** and **Cloud Architecture**
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolio-psi-umber-51.vercel.app/)
-- 💬 Ask me about **React, Next.js, Express, MongoDB**
-- 📫 How to reach me: **hassangill9393@gmail.com**
-- 📄 Download my [resume](https://portfolio-psi-umber-51.vercel.app/Hassan_Rehman_Resume.pdf)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 💫 About Me
+
+Hey there! I'm **Hassan Rehman** — a curious mind, full-stack developer, and a Software Engineering student at **FAST-NUCES**, currently in my second year. I'm driven by a passion to turn ideas into interactive, impactful web experiences. Whether it's building something meaningful, tackling complex backend logic, or designing sleek UIs — I’m all in. ⚡
+
+---
+
+### 🚀 Quick Snapshot
+
+- 👨‍💻 **3+ years** of experience in Web Development & UI/UX Design  
+- 🛠️ Built **20+ full-stack projects** (and counting!)  
+- 🌍 Currently diving deep into **AI Development** & **Real-time Systems**  
+- 💬 Favorite Stack? → `React` • `Next.js` • `Express.js` • `MongoDB`  
+- 🎨 Love blending **functionality** with **aesthetics**  
+- 💡 Exploring AI-powered applications and modern DevOps workflows  
+
+---
+
+### 🔗 Let's Connect
+
+- 🌐 Check out my work: [**My Portfolio**](https://portfolio-psi-umber-51.vercel.app/)  
+- 📄 Download my [**Resume**](https://portfolio-psi-umber-51.vercel.app/Hassan_Rehman_Resume.pdf)  
+- 📬 Reach me at: **hassangill9393@gmail.com**
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
+</p>
+
 
 ## 🛠️ Skills & Technologies
 
@@ -90,7 +107,6 @@
 ## 📈 Most Used Languages
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=radical" alt="Top Languages" height="180em"/> </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-## 📫 Let's Connect!
 
 <div align="center">
   <p>I'm always interested in new opportunities and collaborations. Feel free to reach out!</p>
