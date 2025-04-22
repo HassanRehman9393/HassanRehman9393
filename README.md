@@ -7,29 +7,26 @@
 <h3 align="center">Full Stack Developer specializing in scalable web applications</h3>
 
 <p align="center">
-  <a href="https://portfolio-psi-umber-51.vercel.app/" target="_blank">
+  <a href="https://hassangill.me" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/hassan-rehman-1029b3341/" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-rehman-1029b3341/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/HassanRehman9393" target="_blank">
+  <a href="https://github.com/HassanRehman9393" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:hassangill9393@gmail.com" target="_blank">
+  <a href="mailto:hassangill9393@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/hassan_gill.19/" target="_blank">
+  <a href="https://instagram.com/hassan_gill.19/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
-
-
 <div align="center">
-    <img alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZhaW15dGc4ZXplNm43eG4wZ2xweHI5Y2lvYTFmc3htMXhqMm5oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWZhaW15dGc4ZXplNm43eG4wZ2xweHI5Y2lvYTFmc3htMXhqMm5oeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-
 
 ## 💫 About Me
 
@@ -50,14 +47,13 @@ Hey there! I'm **Hassan Rehman** — a curious mind, full-stack developer, and a
 
 ### 🔗 Let's Connect
 
-- 🌐 Check out my work: [**My Portfolio**](https://portfolio-psi-umber-51.vercel.app/)  
-- 📄 Download my [**Resume**](https://portfolio-psi-umber-51.vercel.app/Hassan_Rehman_Resume.pdf)  
+- 🌐 Check out my work: [**My Portfolio**](https://hassangill.me)  
+- 📄 Download my [**Resume**](https://hassangill.me/Hassan_Rehman_Resume.pdf)  
 - 📬 Reach me at: **hassangill9393@gmail.com**
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
 </p>
-
 
 ## 🛠️ Skills & Technologies
 
@@ -101,29 +97,37 @@ Hey there! I'm **Hassan Rehman** — a curious mind, full-stack developer, and a
 
 ## 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanRehman9393&theme=radical" alt="GitHub Streak" height="180em"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HassanRehman9393&theme=radical" height="180em" />
+</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📈 Most Used Languages
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=radical" alt="Top Languages" height="180em"/> </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=radical" height="180em" />
+</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
   <p>I'm always interested in new opportunities and collaborations. Feel free to reach out!</p>
-  <a href="https://portfolio-psi-umber-51.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" width="48" height="48"/>
+  <a href="https://hassangill.me" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/hassan-rehman-1029b3341" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" width="48" height="48"/>
+  <a href="https://linkedin.com/in/hassan-rehman-1029b3341" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:hassangill9393@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="48" height="48"/>
+  <a href="mailto:hassangill9393@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/gmail.png" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/hassan_gill.19" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="48" height="48"/>
+  <a href="https://instagram.com/hassan_gill.19" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/instagram-new.png" alt="Instagram" />
   </a>
-  <a href="https://github.com/HassanRehman9393" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="48" height="48"/>
+  <a href="https://github.com/HassanRehman9393" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub" />
   </a>
 </div>
 
