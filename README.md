@@ -99,7 +99,7 @@ Hey there! I'm **Hassan Rehman** — a curious mind, full-stack developer, and a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=radical" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=HassanGill9393&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=HassanRehman9393&theme=radical" alt="GitHub Streak" />
 </div>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
