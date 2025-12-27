@@ -73,29 +73,28 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,graphql" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,opencv" />
-</p>
-
-### Databases & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,aws,vercel,netlify,git" />
-</p>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,graphql" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>AI / ML</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,opencv" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Databases & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,aws,vercel" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="20">
@@ -104,8 +103,8 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=HassanRehman9393&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" height="180em" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=tokyonight&hide_border=false&border_color=7C3AED&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=HassanRehman9393&theme=tokyonight&hide_border=false&border=7C3AED&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" height="180em" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -115,7 +114,7 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=10&cache_seconds=1800" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=false&border_color=7C3AED&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=10&cache_seconds=1800" height="180em" />
 </div>
 
 <p align="center">
