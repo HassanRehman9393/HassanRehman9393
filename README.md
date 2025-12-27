@@ -115,7 +115,7 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF&langs_count=10&cache_seconds=1800" height="180em" />
 </div>
 
 <p align="center">
