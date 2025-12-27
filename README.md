@@ -104,7 +104,7 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HassanRehman9393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" height="180em" />
   <img src="https://streak-stats.demolab.com?user=HassanRehman9393&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" height="180em" alt="GitHub Streak" />
 </div>
 
@@ -115,7 +115,7 @@ I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering st
 ## 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="180em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HassanRehman9393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="180em" />
 </div>
 
 <p align="center">
