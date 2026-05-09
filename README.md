@@ -30,7 +30,7 @@
 
 ## 💫 About Me
 
-I'm **Hassan Gill** an AI & SaaS Solutions Architect and Software Engineering student at **FAST-NUCES**. I specialize in building scalable SaaS products and integrating Large Language Models (LLMs) into business workflows. My focus is delivering measurable ROI through intelligent automation and production-ready software design. ⚡
+I'm **Hassan Rehman** an AI & SaaS Solutions Architect and Software Engineering student at **FAST-NUCES**. I specialize in building scalable SaaS products and integrating Large Language Models (LLMs) into business workflows. My focus is delivering measurable ROI through intelligent automation and production-ready software design. ⚡
 
 ---
 
